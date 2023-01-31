@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.9.0/bd46891f01817b5ffdd368cb0482a34746610acb/junit-platform-engine-1.9.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.9.0/a44f7eba3ea214f6ec87ad9fccd3b2ac4681a4/junit-jupiter-api-5.9.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.0/b727889107fc28c7460b21d1083212f8ce7602c6/junit-platform-commons-1.9.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.9.0/cc1cb5efae97493dcffb687253a0964ad2e7b99/junit-jupiter-engine-5.9.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar" />
+        </processorPath>
+        <module name="PageObjects.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+</project>
